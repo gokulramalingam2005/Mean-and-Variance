@@ -50,9 +50,9 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 ## Program :
-Developed By : **Virgil Jovita A**
+Developed By : **Gokul . R**
 </br>
-Register No. : **212221240062**
+Register No. : **212222230039**
 ```py
 import numpy as np
 L=[int(i) for i in input().split()]
